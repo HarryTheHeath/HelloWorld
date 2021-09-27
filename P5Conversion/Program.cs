@@ -14,7 +14,7 @@ namespace P5Conversion
 
             numberString = number;
             
-            Console.WriteLine("numberstring = " + numberString);
+            Console.WriteLine("number string = " + numberString);
             
 
             numberString = (int) 56.3;
